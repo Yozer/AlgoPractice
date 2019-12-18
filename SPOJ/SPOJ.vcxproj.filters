@@ -13,6 +13,9 @@
       <UniqueIdentifier>{67DA6AB6-F800-4c08-8B7A-83BB121AAD01}</UniqueIdentifier>
       <Extensions>rc;ico;cur;bmp;dlg;rc2;rct;bin;rgs;gif;jpg;jpeg;jpe;resx;tiff;tif;png;wav;mfcribbon-ms</Extensions>
     </Filter>
+    <Filter Include="Source Files\Done">
+      <UniqueIdentifier>{cca1c1b5-df0d-4695-97e6-02aef634920f}</UniqueIdentifier>
+    </Filter>
   </ItemGroup>
   <ItemGroup>
     <ClCompile Include="ANARC05H.cpp">
@@ -20,35 +23,44 @@
     </ClCompile>
   </ItemGroup>
   <ItemGroup>
+    <None Include="ABA12C.cpp">
+      <Filter>Source Files\Done</Filter>
+    </None>
     <None Include="ABCDEF.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\Done</Filter>
     </None>
     <None Include="ACODE.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\Done</Filter>
     </None>
     <None Include="AIBOHP.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\Done</Filter>
     </None>
     <None Include="ANARC05B.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\Done</Filter>
     </None>
     <None Include="COINS.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\Done</Filter>
     </None>
     <None Include="EDIST.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\Done</Filter>
     </None>
     <None Include="FARIDA.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\Done</Filter>
+    </None>
+    <None Include="MIXTURES.cpp">
+      <Filter>Source Files\Done</Filter>
     </None>
     <None Include="PA05_POT.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\Done</Filter>
     </None>
     <None Include="PPATH.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\Done</Filter>
     </None>
     <None Include="PRIME_T.cpp">
-      <Filter>Source Files</Filter>
+      <Filter>Source Files\Done</Filter>
+    </None>
+    <None Include="PT07X.cpp">
+      <Filter>Source Files\Done</Filter>
     </None>
   </ItemGroup>
 </Project>

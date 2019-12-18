@@ -146,10 +146,13 @@
     </Link>
   </ItemDefinitionGroup>
   <ItemGroup>
+    <None Include="MIXTURES.cpp" />
+    <None Include="PT07X.cpp" />
     <None Include="ABCDEF.cpp" />
     <None Include="ACODE.cpp" />
     <None Include="AIBOHP.cpp" />
     <None Include="ANARC05B.cpp" />
+    <None Include="ABA12C.cpp" />
     <ClCompile Include="ANARC05H.cpp" />
     <None Include="COINS.cpp" />
     <None Include="EDIST.cpp" />
